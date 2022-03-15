@@ -10,7 +10,7 @@ This is the an implement of [Hedera](https://www.usenix.org/legacy/event/nsdi10/
 ``git clone git://github.com/osrg/ryu.git``
 ``cd ryu``
 ``pip install -r tools/optional-requires``
-``sudo pip3 install  .``
+``sudo pip install  .``
 3. install Networkx
 ``pip install networkx``
 4. install bwm-ng
